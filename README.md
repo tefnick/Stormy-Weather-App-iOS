@@ -1,4 +1,4 @@
-Stormy-Weather-App-iOS
+<h1>Stormy-Weather-App-iOS</h1>
 Weather Mobile App for iOS </br>
 
 Following the TeamTreehouse course "Build a weather app on iOS" </br>
